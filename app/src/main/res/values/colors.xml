@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#1e1f26</color>
+    <color name="colorPrimary">#283655</color>
+    <color name="background">#4d648d</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- Chat Items Right and Left -->
+    <color name="chat_item_right">#336b87</color>
+    <color name="chat_item_left">#90afc5</color>
+
+</resources>

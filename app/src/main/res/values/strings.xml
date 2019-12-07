@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_chat_fragment">Hello Chat fragment</string>
+    <string name="hello_user_fragment">Hello User fragment</string>
+</resources>

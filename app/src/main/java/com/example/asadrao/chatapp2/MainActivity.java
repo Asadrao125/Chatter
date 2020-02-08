@@ -78,6 +78,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
 
+                /*String message = databaseError.getMessage();
+                Toast.makeText(MainActivity.this, ""+message, Toast.LENGTH_SHORT).show();*/
+
             }
         });
 
